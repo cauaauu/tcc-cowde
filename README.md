@@ -5,4 +5,4 @@ O projeto contempla um website e aplicativo android que se comunicam com o servi
 O produto tem a finalidade de lecionar lógica e sintaxe de programação utilizando Javascript como ferramenta.
 
 
-** Código na branch master **
+** Código nas branchs **
