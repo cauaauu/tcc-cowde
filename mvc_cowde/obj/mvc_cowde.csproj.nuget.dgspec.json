@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\aluno\\Downloads\\Cowde_Mvc (31-05)\\mvc_cowde\\mvc_cowde.csproj": {}
+    "C:\\Users\\aluno\\Documents\\cauasalazar_3T\\MVC\\Cowde\\mvc_cowde\\mvc_cowde.csproj": {}
   },
   "projects": {
-    "C:\\Users\\aluno\\Downloads\\Cowde_Mvc (31-05)\\mvc_cowde\\mvc_cowde.csproj": {
+    "C:\\Users\\aluno\\Documents\\cauasalazar_3T\\MVC\\Cowde\\mvc_cowde\\mvc_cowde.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\aluno\\Downloads\\Cowde_Mvc (31-05)\\mvc_cowde\\mvc_cowde.csproj",
+        "projectUniqueName": "C:\\Users\\aluno\\Documents\\cauasalazar_3T\\MVC\\Cowde\\mvc_cowde\\mvc_cowde.csproj",
         "projectName": "mvc_cowde",
-        "projectPath": "C:\\Users\\aluno\\Downloads\\Cowde_Mvc (31-05)\\mvc_cowde\\mvc_cowde.csproj",
+        "projectPath": "C:\\Users\\aluno\\Documents\\cauasalazar_3T\\MVC\\Cowde\\mvc_cowde\\mvc_cowde.csproj",
         "packagesPath": "C:\\Users\\aluno\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\aluno\\Downloads\\Cowde_Mvc (31-05)\\mvc_cowde\\obj\\",
+        "outputPath": "C:\\Users\\aluno\\Documents\\cauasalazar_3T\\MVC\\Cowde\\mvc_cowde\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
