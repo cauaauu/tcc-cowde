@@ -1,3 +1,0 @@
-com.example.tcc_cowde.test
-style WhiteBackgroundDialogTheme
-style WhiteBackgroundTheme

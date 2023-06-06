@@ -1,9 +1,0 @@
-com.example.tcc_cowde.test.app-annotation-experimental-1.3.0-0 C:\Users\Leonardo\.gradle\caches\transforms-3\63ae628bc7544672488d97b4434c33ad\transformed\annotation-experimental-1.3.0\res
-com.example.tcc_cowde.test.app-core-1.5.0-1 C:\Users\Leonardo\.gradle\caches\transforms-3\de72d4dd33c23d885c7998e5a9a1bde4\transformed\core-1.5.0\res
-com.example.tcc_cowde.test.app-androidTest-2 C:\Users\Leonardo\Desktop\TCC0106\indmo_Cowde\indmo_Cowde\app\build\generated\res\resValues\androidTest\debug
-com.example.tcc_cowde.test.app-androidTest-3 C:\Users\Leonardo\Desktop\TCC0106\indmo_Cowde\indmo_Cowde\app\build\generated\res\rs\androidTest\debug
-com.example.tcc_cowde.test.app-mergeDebugAndroidTestResources-4 C:\Users\Leonardo\Desktop\TCC0106\indmo_Cowde\indmo_Cowde\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
-com.example.tcc_cowde.test.app-mergeDebugAndroidTestResources-5 C:\Users\Leonardo\Desktop\TCC0106\indmo_Cowde\indmo_Cowde\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
-com.example.tcc_cowde.test.app-merged_res-6 C:\Users\Leonardo\Desktop\TCC0106\indmo_Cowde\indmo_Cowde\app\build\intermediates\merged_res\debugAndroidTest
-com.example.tcc_cowde.test.app-androidTest-7 C:\Users\Leonardo\Desktop\TCC0106\indmo_Cowde\indmo_Cowde\app\src\androidTest\res
-com.example.tcc_cowde.test.app-androidTestDebug-8 C:\Users\Leonardo\Desktop\TCC0106\indmo_Cowde\indmo_Cowde\app\src\androidTestDebug\res
