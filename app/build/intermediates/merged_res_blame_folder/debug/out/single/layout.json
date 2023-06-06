@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "com.example.tcc_cowde.app-mergeDebugResources-31:/layout/activity_maps.xml",
+        "source": "com.example.tcc_cowde.app-main-34:/layout/activity_maps.xml"
+    },
+    {
+        "merged": "com.example.tcc_cowde.app-mergeDebugResources-31:/layout/activity_atualizar.xml",
+        "source": "com.example.tcc_cowde.app-main-34:/layout/activity_atualizar.xml"
+    },
+    {
+        "merged": "com.example.tcc_cowde.app-mergeDebugResources-31:/layout/activity_main.xml",
+        "source": "com.example.tcc_cowde.app-main-34:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.tcc_cowde.app-mergeDebugResources-31:/layout/activity_login.xml",
+        "source": "com.example.tcc_cowde.app-main-34:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.example.tcc_cowde.app-mergeDebugResources-31:/layout/activity_perfil.xml",
+        "source": "com.example.tcc_cowde.app-main-34:/layout/activity_perfil.xml"
+    },
+    {
+        "merged": "com.example.tcc_cowde.app-mergeDebugResources-31:/layout/activity_cadastrar.xml",
+        "source": "com.example.tcc_cowde.app-main-34:/layout/activity_cadastrar.xml"
+    }
+]
